@@ -20,6 +20,10 @@
     "keyboard": {
       "numberOfImages": 1,
       "description": "A keyboard is a device with a set of buttons or keys arranged in a specific layout. It is primarily used for inputting letters, numbers, symbols, and commands into a computer or other electronic devices. Keyboards can be connected to computers, laptops, tablets, or even used as standalone musical instruments. Each key on a keyboard represents a specific character or function, and when pressed, it sends a signal to the device it is connected to. Keyboards can be used for typing documents, playing games, navigating through software, or creating music. They come in different shapes, sizes, and configurations, including traditional mechanical keyboards, compact keyboards, and virtual keyboards on touchscreens."
+    },
+    "screen": {
+      "numberOfImages": 1,
+      "description": "A keyboard is a device with a set of buttons or keys arranged in a specific layout. It is primarily used for inputting letters, numbers, symbols, and commands into a computer or other electronic devices. Keyboards can be connected to computers, laptops, tablets, or even used as standalone musical instruments. Each key on a keyboard represents a specific character or function, and when pressed, it sends a signal to the device it is connected to. Keyboards can be used for typing documents, playing games, navigating through software, or creating music. They come in different shapes, sizes, and configurations, including traditional mechanical keyboards, compact keyboards, and virtual keyboards on touchscreens."
     }
   }
 }
