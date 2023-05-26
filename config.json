@@ -1,5 +1,5 @@
 {
-  "quiz": { "categories": ["banana", "car", "dog", "doll"] },
+  "quiz": { "categories": ["banana", "car", "dog", "doll","screen"] },
   "info": {
     "banana": {
       "numberOfImages": 2,
