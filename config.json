@@ -2,18 +2,23 @@
   "quiz": { "categories": ["banana", "car", "dog", "doll"] },
   "info": {
     "banana": {
+      "numberOfImages": 2,
       "description": "a banana is a yummy fruit that's good for you. It's sweet and easy to eat. Bananas give you energy and help you grow strong. They have vitamins and minerals that are important for your body. You can eat them as a snack or add them to other foods like cereal or pancakes. They come in their own wrapper, and you can even freeze them for a cool treat!"
     },
     "car": {
+      "numberOfImages": 1,
       "description": "A car is a type of vehicle that people use to travel from one place to another. It has wheels and an engine that makes it move. Cars come in different shapes, sizes, and colors. They have seats for people to sit in and a steering wheel for the driver to control the direction. Cars run on fuel, such as gasoline or electricity. They are a common way to get around and can be used for everyday transportation, road trips, or family outings."
     },
     "dog": {
+      "numberOfImages": 1,
       "description": "Dogs are friendly pets that love to play and be with you. They come in different types and sizes, but all dogs are loyal and can be your best friend. They have a great sense of smell and hearing. Taking care of a dog means giving them food, water, exercise, and love. They make us happy and can understand our feelings. Dogs are special and love us no matter what!"
     },
     "doll": {
+      "numberOfImages": 1,
       "description": "A doll is a toy that looks like a person or an imaginary character. Dolls can be made of various materials, such as plastic, cloth, or wood. They come in different sizes and styles, and often have clothes and accessories. Dolls are used for pretend play, storytelling, and as companions. Kids can dress them up, have tea parties with them, or create their own imaginary worlds. Dolls can spark creativity and imagination, and they are often cherished toys that children love to play with."
     },
     "keyboard": {
+      "numberOfImages": 1,
       "description": "A keyboard is a device with a set of buttons or keys arranged in a specific layout. It is primarily used for inputting letters, numbers, symbols, and commands into a computer or other electronic devices. Keyboards can be connected to computers, laptops, tablets, or even used as standalone musical instruments. Each key on a keyboard represents a specific character or function, and when pressed, it sends a signal to the device it is connected to. Keyboards can be used for typing documents, playing games, navigating through software, or creating music. They come in different shapes, sizes, and configurations, including traditional mechanical keyboards, compact keyboards, and virtual keyboards on touchscreens."
     }
   }
