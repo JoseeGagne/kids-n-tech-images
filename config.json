@@ -11,21 +11,11 @@
     },
     "monitor": {
       "numberOfImages": 10,
-      "description": "A screen, or 'computer monitor', displays information as a picture or text.
-      It is used together with the mouse and keyboard to interact with the computer!"
-    },
-    "doll": {
-      "numberOfImages": 10,
-      "description": "A doll is a toy that looks like a person or an imaginary character. Dolls can be made of various materials, such as plastic, cloth, or wood. They come in different sizes and styles, and often have clothes and accessories. Dolls are used for pretend play, storytelling, and as companions. Kids can dress them up, have tea parties with them, or create their own imaginary worlds. Dolls can spark creativity and imagination, and they are often cherished toys that children love to play with."
+      "description": "A screen, or 'computer monitor', displays information as a picture or text. It is used together with the mouse and keyboard to interact with the computer!"
     },
     "keyboard": {
       "numberOfImages": 10,
-      "description": "A computer keyboard is a device modeled after the typewriter keyboard.
-      The keyboard is used as a text entry interface for typing text, numbers, and symbols."
-    },
-    "screen": {
-      "numberOfImages": 1,
-      "description": ""
+      "description": "A computer keyboard is a device modeled after the typewriter keyboard. The keyboard is used as a text entry interface for typing text, numbers, and symbols."
     }
   }
 }
